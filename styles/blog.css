@@ -1,0 +1,21 @@
+.header {
+    height: 200px;
+    background-image: url(../car2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h3 {
+    color: blueviolet;
+    text-decoration: underline solid;
+    background-color: aqua;
+    box-shadow: 50px 50px hotpink;
+
+}
+
+
+p {
+    background-color: rgb(245, 20, 20);
+    box-shadow: 5px 10px;
+}
